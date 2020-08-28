@@ -4,9 +4,9 @@
 
 -----------------
 
-This program shows my algorithms to solving an anagram question\
+This program shows my algorithms to solving an anagram question&nbsp;
 
-The question and full analysis algorithm can be found on this blog:
+The question and full analysis algorithm can be found on this blog: 📝
 
 https://www.developerssauna.stevekmak.com/2020/08/istio-servicemesh.html
 
