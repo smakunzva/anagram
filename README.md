@@ -1,8 +1,6 @@
 ---------------
 # Anagram
-
-<img src="https://github.com/smakunzva/anagram/blob/master/header.png">
-
+<img src="https://github.com/smakunzva/anagram/blob/master/header.png" height="200px">
 -----------------
 
 This program shows my algorithms to solving an anagram question.
