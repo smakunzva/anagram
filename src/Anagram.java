@@ -4,7 +4,7 @@ import java.io.*;
  * @author stevemak
  * This class shows how to solve an anagram questions which you might come across in interviews
  * The full details on the question being asked and other interesting things can be found
- * @ https://www.developerssauna.stevekmak.com/2020/08/istio-servicemesh.html
+ * @ https://www.developerssauna.stevekmak.com/2020/09/anagram-interview-question-so-my-friend.html
  */
 public class Anagram {
 
@@ -30,7 +30,7 @@ public class Anagram {
         }
 
         bufferedReader2.close();
-        System.out.println(new Anagram().checkAnagramFirstSolution(result1, result2));
+        System.out.println(new Anagram().checkAnagramSecondSolution(result1, result2));
     }
 
     public int checkAnagramFirstSolution(String A, String B) {
